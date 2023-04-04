@@ -86,19 +86,23 @@ To use the tableau dashboard. click on the type of media. Then select the genre 
 
 ### Installation
 
-_Below are instructions of how you can install/run this app._
+_Below are instructions of how you can run this website._
 
 1. Clone the repo
    ```sh
    git clone https://github.com/kanishchugh/Anime-Recommender.git
    ```
-2. Install all requirements
+2. login to docker using
    ```sh
-   pip install -r requirements.txt
+   docker login -u "pavannaga207" -p "Snvp@2002" docker.io 
    ```
-3.  Run `app.py`
-   ```js
-   python3 app.py
+3. pull the docker image from the hub using
+   ```sh
+   docker pull pavannaga207/anime:0.0.1
+   ```
+4. run the docker file
+   ```sh
+   docker run -p 5000:5000 anime
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
