@@ -90,7 +90,7 @@ _Below are instructions of how you can run this website._
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kanishchugh/Anime-Recommender.git
+   git clone https://github.com/ksrivatsa207/anime-recommendation.git
    ```
 2. login to docker using
    ```sh
