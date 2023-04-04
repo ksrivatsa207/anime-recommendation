@@ -93,7 +93,7 @@ we should also download the docker-website form https://www.docker.com/products/
    ```sh
    git clone https://github.com/ksrivatsa207/anime-recommendation.git
    ```
-3. login to docker using
+3. login to docker using following command in cmd(in the cloned git directory)
    ```sh
    docker login -u "pavannaga207" -p "Snvp@2002" docker.io 
    ```
