@@ -78,27 +78,32 @@ This section contains the list of the major frameworks/libraries used in this pa
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-To use this application you can visit the link https://anime-recommender-production.up.railway.app/ and use the application directly from there. 
+This website is containerized using railway.app and the link to the website is https://web-production-a797.up.railway.app/.
+To use this application you can visit the link https://web-production-a797.up.railway.app/ and use the application directly from there. 
 _Try Naruto, AKIRA._ You can also explore the data using the tableau dashboard created byt clicking on the _OTAKU INVESTIGATION_ button in the top-bar.
 To use the tableau dashboard. click on the type of media. Then select the genre of the media to get the filtered results in the grid. You may then hover over the tiles to get the information about the filtered media.
 
 
-### Installation
+### Installation in your local device
 
-_Below are instructions of how you can install/run this app._
-
-1. Clone the repo
+_Below are instructions of how you can run this website in your local device._
+we should also download the docker-website form https://www.docker.com/products/docker-desktop/ and follow below instructions.
+1. start docker in your device by opening docker-desktop
+2. Clone the repo
    ```sh
-   git clone https://github.com/kanishchugh/Anime-Recommender.git
+   git clone https://github.com/ksrivatsa207/anime-recommendation.git
    ```
-2. Install all requirements
+3. login to docker using following command in cmd(in the cloned git directory)
    ```sh
-   pip install -r requirements.txt
+   docker login -u "pavannaga207" -p "Snvp@2002" docker.io 
    ```
-3.  Run `app.py`
-   ```js
-   python3 app.py
+4. pull the docker image from the hub using
+   ```sh
+   docker pull pavannaga207/anime:0.0.1
+   ```
+5. run the docker file
+   ```sh
+   docker run -p 5000:5000 anime
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
