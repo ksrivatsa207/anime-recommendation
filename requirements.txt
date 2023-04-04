@@ -1,0 +1,9 @@
+beautifulsoup4
+Flask
+numpy
+pandas
+requests
+scikit_learn
+gunicorn
+itsdangerous
+sentence-transformers
