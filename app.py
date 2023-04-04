@@ -22,7 +22,7 @@ if os.path.exists('Anime_Data.pkl'): #Checking if the pickle file exists or not
         return render_template('results.html',name=name[0], anime_name=anime_name,anime_genre=anime_genre,anime_summary=anime_summary) #Renders/Generate results page
 
     if __name__ == "__main__":
-        app.run(port=10000)
+        app.run()
 else: #If the pickle file does not exist we run the code to process the data as well as save the pickle file
     reccomendations.data_processing()
     reccomendations.recommendation_list()
