@@ -117,7 +117,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Kanish Chugh - [@SrivatsaK571946](https://twitter.com/SrivatsaK571946) - ksrivatsa207@gmail.com
 
-Project Link: [https://github.com/ksrivatsa207/Anime-Recommender/](https://github.com/ksrivatsa207/Anime-Recommender)
+Project Link: [https://github.com/ksrivatsa207/anime-recommendation](https://github.com/ksrivatsa207/anime-recommendation)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
