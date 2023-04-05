@@ -87,7 +87,7 @@ To use the tableau dashboard. click on the type of media. Then select the genre 
 ### Installation in your local device
 
 _Below are instructions of how you can run this website in your local device._
-we should also download the docker-website form https://www.docker.com/products/docker-desktop/ and follow below instructions.
+we should also download the docker-desktop form https://www.docker.com/products/docker-desktop/ and follow below instructions.
 1. start docker in your device by opening docker-desktop
 2. Clone the repo
    ```sh
