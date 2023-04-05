@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/kanishchugh/Anime-Recommender">
+  <a href="https://github.com/ksrivatsa207/anime-recommendation">
     <img src="static/logo/Anime Recommender-logos_transparent.png" alt="Logo" width="80" height="36.7">
   </a>
 
@@ -12,11 +12,11 @@
     An End-to-End Anime reccomendation project!
     <br />
     <br />
-    <a href="https://web-production-6205.up.railway.app/">View Demo</a>
+    <a href="https://web-production-a797.up.railway.app/">View Demo</a>
     ·
-    <a href="https://github.com/kanishchugh/Anime-Recommender/issues">Report Bug</a>
+    <a href="https://github.com/ksrivatsa207/anime-recommendation/issues">Report Bug</a>
     ·
-    <a href="https://github.com/kanishchugh/Anime-Recommender/issues">Request Feature</a>
+    <a href="https://github.com/ksrivatsa207/anime-recommendation/issues">Request Feature</a>
   </p>
 </div>
 
