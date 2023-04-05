@@ -120,7 +120,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kanish Chugh - [@SrivatsaK571946](https://twitter.com/SrivatsaK571946) - ksrivatsa207@gmail.com
+SriVatsa - [@SrivatsaK571946](https://twitter.com/SrivatsaK571946) - ksrivatsa207@gmail.com
 
 Project Link: [https://github.com/ksrivatsa207/anime-recommendation](https://github.com/ksrivatsa207/anime-recommendation)
 
